@@ -1,0 +1,96 @@
+{
+  "repo": "PrunaAI/P-H3-Image-Comfy",
+  "revision": "44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543",
+  "files": [
+    {
+      "path": "diffusion_models/p-h3-image_int8_convrot.safetensors",
+      "size": 21213068840,
+      "sha256": "b156fd4fe9d169e58cb2b07f9594ec740ff8f0e052d62b009e6dd034de5865e7",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/diffusion_models/p-h3-image_int8_convrot.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/cc53efdccd628838d97a3a15bcc84973e4429cae/diffusion_models/p-h3-image_int8_convrot.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "diffusion_models/p-h3-image_w4a8.safetensors",
+      "size": 13362068864,
+      "sha256": "12ea30d6fde736dd69ef16658ce9438823a06e351ac3fa335cc4a3ce6bb17a43",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/diffusion_models/p-h3-image_w4a8.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/2a82dc09c1001e51d58a71dd39db4e1db40faa23/diffusion_models/p-h3-image_w4a8.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "text_encoders/p-h3-image_prompt_upsampler_int8_convrot.safetensors",
+      "size": 9748117724,
+      "sha256": "281f9c90230cec3c2029d0761128868c21d1bc5b15fb742bde5a051119ad2f4e",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/text_encoders/p-h3-image_prompt_upsampler_int8_convrot.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/a79adf8502f74fdc0be9f7515c859f849bf006ba/text_encoders/p-h3-image_prompt_upsampler_int8_convrot.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "text_encoders/p-h3-image_prompt_upsampler_w4a8.safetensors",
+      "size": 6724096116,
+      "sha256": "74b206c0e3133aa0d1983fd8658c1526a53863cdcca5184538388e927f4e989b",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/text_encoders/p-h3-image_prompt_upsampler_w4a8.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/10913738ce8bb7fee1d9ceb9cdeaf26c1ed878d2/text_encoders/p-h3-image_prompt_upsampler_w4a8.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "text_encoders/p-h3-image_text_encoder_int8_convrot.safetensors",
+      "size": 5120870504,
+      "sha256": "fb42c9ff0597e61729475d0b48b69b591ffe06d0b442a79dde22b14fadbe1c0f",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/text_encoders/p-h3-image_text_encoder_int8_convrot.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/1a45dd1bdf9f2a4a1c431bf30f1f3930e271b706/text_encoders/p-h3-image_text_encoder_int8_convrot.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "text_encoders/p-h3-image_text_encoder_w4a8.safetensors",
+      "size": 3575536021,
+      "sha256": "d4ae62d48e1de846dd55fc975623434e9326df3449601c4e15bea8b3ccd67293",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/text_encoders/p-h3-image_text_encoder_w4a8.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/14097b4ddbc5a233eda48b95a5148d31aab15bd6/text_encoders/p-h3-image_text_encoder_w4a8.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "vae/p-h3-image_vae_int8_convrot.safetensors",
+      "size": 3146996440,
+      "sha256": "583e0d43354b6b833aa9a0815a5fac831b1ef6d0c19a7eaa0616980a3dab5ffe",
+      "urls": [
+        "https://huggingface.co/PrunaAI/P-H3-Image-Comfy/resolve/44a0fb73f299da1bb715bdb5ff59ce3fd3c6f543/vae/p-h3-image_vae_int8_convrot.safetensors",
+        "https://modelscope.cn/models/PrunaAI/P-H3-Image-Comfy/resolve/212ca57539ba6d8df8330f5b4f0827588d51f0af/vae/p-h3-image_vae_int8_convrot.safetensors"
+      ],
+      "fallback_verified": true
+    },
+    {
+      "path": "vae/minimax_h3_video_vae_int8_convrot.safetensors",
+      "size": 2811065184,
+      "sha256": "52a2c8c73583c86e4f41cdcce3a6ad0ea562987bc0bf3d60a0cef5f5c8e60c0e",
+      "urls": [
+        "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/54472221d27c695fca9621b0c3ed52f06c4af707/vae/minimax_h3_video_vae_int8_convrot.safetensors",
+        "https://modelscope.cn/models/Comfy-Org/MiniMax-H3/resolve/28f23183b0ec49739a0c01184f04384e5470042e/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+      ],
+      "fallback_verified": true,
+      "source": "Comfy-Org/MiniMax-H3; native H3 RefMod encode/decode only"
+    },
+    {
+      "path": "text_encoders/qwen3.5_9b_w4a8_gptq.safetensors",
+      "size": 7343591088,
+      "sha256": "4cc6a1543ad2061806da46f35f90cadb4801dcba246c44782cf42ec0feb6407c",
+      "urls": [
+        "https://huggingface.co/Comfy-Org/Qwen3.5/resolve/a3f61d217d07c6936174625ce5d06e6079e9393e/text_encoders/qwen3.5_9b_w4a8_gptq.safetensors"
+      ],
+      "fallback_verified": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/LICENSE
+!/NOTICE
+!/THIRD-PARTY-NOTICES.md
+!/sprite_studio/
+!/tests/
+!/tools/
+!/workflows/
+!/docs/
+!/.github/
+/tools/*
+!/tools/install.ps1
+/workflows/*
+!/workflows/Sprite Studio - Starter.json
+/docs/*
+!/docs/INSTALLATION.md
+!/docs/ARCHITECTURE.md
+!/docs/NATIVE-ENHANCE.md
+!/docs/VALIDATION.md
+**/__pycache__/
+*.pyc
+.DS_Store
